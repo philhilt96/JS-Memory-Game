@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#662D91;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<g id="Mountains">
+	<path d="M45.8,42.1H15.1c-2.2,0-3.5-2.2-2.7-4.2l11.8-26.5c1.1-2.3,4.3-2.3,5.4,0l3.7,8.3l1-2c0.8-1.9,3.5-1.9,4.3,0l9.4,21
+		C48.7,40.3,47.6,42.1,45.8,42.1z"/>
+	<path class="st0" d="M4,43.4h17.4c1.6,0,2.6-1.6,2-3l-8.7-18.9c-0.8-1.6-3.3-1.6-4.1,0L2,40.5C1.4,41.8,2.4,43.4,4,43.4z"/>
+</g>
+<g id="Cloud">
+	<path class="st1" d="M19.5,15.9c0,1-1.1,1.8-2.4,1.8c-0.5,0-2.4,0-3,0s-2.4,0-3,0c-1.4,0-2.4-0.8-2.4-1.8c0-0.8,0.8-1.6,2-1.8l0,0
+		c0-1,1-1.8,2-1.8c0.5,0,1.1,0.3,1.5,0.7c0.4-0.4,1-0.7,1.5-0.7c1.1,0,2,0.8,2,1.8l0,0C18.7,14.3,19.5,14.9,19.5,15.9z"/>
+</g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{fill:#0000FF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st2{fill:#0000FF;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M23.5,8.4h-5.6c-0.5,0-1,0.4-1,1l-1.4,27.9c0,0.5,0.4,1.1,1,1.1h7.9H26l-1.5-29C24.5,8.8,24,8.4,23.5,8.4z"/>
+</g>
+<g>
+	<path class="st0" d="M33.7,10.2h-5c-0.7,0-1.2,0.5-1.4,1.2L26,37c0,0.7,0.5,1.4,1.4,1.4h7.8c0.7,0,1.4-0.7,1.4-1.4l-1.4-25.6
+		C34.9,10.7,34.4,10.2,33.7,10.2z"/>
+</g>
+<path class="st1" d="M23,38.4V8.1c0-0.7,0.5-1.2,1.2-1.2h12.3c0.7,0,1.1,0.7,0.7,1.2L36,9.8h-0.1h-8.7c-0.1,0-0.1,0-0.1,0.1v28.4"/>
+<path class="st2" d="M22.1,39.6h4.8l1.5,5c0,0.3-0.1,0.4-0.4,0.4H12.7L22.1,39.6z"/>
+<polygon class="st3" points="24,39.6 25,39.6 24,41.4 22.3,41.4 "/>
+<polygon class="st3" points="19.5,42.4 20.2,42.4 18.2,45.1 16.1,45.1 "/>
+<circle class="st4" cx="22.3" cy="36.9" r="2"/>
+<circle class="st4" cx="27" cy="36.2" r="2.7"/>
+<polyline class="st3" points="24,45.1 26,45.1 26.4,42.4 25,42.4 "/>
+</svg>
